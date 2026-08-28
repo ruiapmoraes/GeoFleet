@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GeoFleet.Api/GeoFleet.Api.csproj" />
+    <Project Path="src/GeoFleet.Application/GeoFleet.Application.csproj" />
+    <Project Path="src/GeoFleet.Domain/GeoFleet.Domain.csproj" />
+    <Project Path="src/GeoFleet.Infrastructure/GeoFleet.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GeoFleet.Domain.Tests/GeoFleet.Domain.Tests.csproj" />
+    <Project Path="tests/GeoFleet.IntegrationTests/GeoFleet.IntegrationTests.csproj" />
+  </Folder>
+</Solution>
